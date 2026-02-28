@@ -1,3 +1,5 @@
 DevAuth Privacy :
 We do not collect any data, all of your Authentication codes are stored on device. 
 The app never makes a connection with a server. The only thing the app needs is for your iPhone Date and Time to be up to date.
+"Why do you need to use my camera?" If you want to scan a QR code, you will need to allow us Camera permissions. Don't worry, if you do not want to scan the code you
+can simply enter the Base32 setup code. 
